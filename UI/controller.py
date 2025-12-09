@@ -47,5 +47,7 @@ class Controller:
         self._view.page.update()
 
     """Implementare la parte di ricerca del cammino minimo"""
+    def handle_cammino_minimo(self, e):
+        pass
     # TODO
 
